@@ -3,3 +3,83 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Lab</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
+</head>
+<body>
+  <!-- Barre de navigation -->
+  <nav>
+    <h1> <a href="accueil.html" style= color:black>The Lab </a></h1>
+    <div class="onglets">
+    
+     <p> <a href="homme.html" style= color:black>Homme </a></p>
+     <p> <a href="femme.html" style= color:black>Femme </a></p>
+     <p> <a href="accessoires.html" style= color:black>Accessoires </a></p>
+      <form>
+        <input type="search" placeholder="Rechercher">
+      </form>
+      
+    </div>
+  </nav>
+  <!-- Fin de la barre de navigation -->
+  
+  <!-- Header -->
+   <header>
+     <h1>Bienvenue à vous !</h1>
+     <button>Naviguer <i class="fas fa-paper-plane"></i></button>
+   </header>
+  <!-- Fin du header -->
+  
+  <!-- Section principale -->
+  <section class="main">
+    
+    <!-- Toutes les cartes -->
+    
+    <div class="cards">
+      
+      <div class="card">
+        <img src="https://www.lesitedelasneaker.com/wp-content/images/2021/01/nike-dunk-low-orange-pearl-dd1503-102-date-sortie-ed7.jpg" >
+        <div class="card-header">
+          <h4 class="title">Nike dunk low rose</h4>
+          <h4 class="price">200$</h4>
+        </div>
+       
+      </div>
+      
+      <div class="card">
+        <img src="data:image/jpeg;base64,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" width="350" height="233" >
+        <div class="card-header">
+          <h4 class="title">AF1 blanche</h4>
+          <h4 class="price">90$</h4>
+        </div>
+        
+      </div>
+      
+        
+      </div>
+      
+     </div>
+    <!-- Fin de toutes les cartes -->
+    
+  </section>
+  <!-- Fin de la section principale -->
+  
+  <!-- Pied de page -->
+  <footer>
+    <p>© The Lab 2021</p>
+    <div class="social-media">
+      <p><i class="fab fa-facebook-f"></i></p>
+      <p><i class="fab fa-twitter"></i></p>
+      <p><i class="fab fa-instagram"></i></p>
+    </div>
+  </footer>
+  <!-- Fin du pied de page -->
+</body>
+</html>
+
+  
+  
+  
+  
+  
