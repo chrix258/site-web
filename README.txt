@@ -34,3 +34,4 @@ Pour les icones nous avons utliser le site fonts awesome et pour ce qui est des 
 Samedi 27/03 : mise en place des idees , choix des langages de programmation et du thème du projet
 Dimanche 28/03 : test de plusieurs pages html pour chosir la plus esthétique, creation du css pour organiser les pages 
 Lundi 29/03: rajout de fond d'ecran du site, rajout d'images d'articles à vendre
+Jeudi 01/04 : Commencencement du projet sur flask pour intérroger une base de donnée 
