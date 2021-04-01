@@ -4,3 +4,33 @@ Notre projet vise a élaborer un site web fonctionnel avec une bonne ésthétiqu
 Notre projet est principalement basé sur du html, du css et du javacript ce site est un site de e commerce de sneakers .
 Nous nous sommes fixés comme objectif que ce site puisse etre commercialisable ce qui veut dire qu'il doit etre parfait .
 Pour les icones nous avons utliser le site fonts awesome et pour ce qui est des images elles sont tirées de google images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samedi 27/03 : mise en place des idees , choix des langages de programmation et du thème du projet
+Dimanche 28/03 : test de plusieurs pages html pour chosir la plus esthétique, creation du css pour organiser les pages 
+Lundi 29/03: rajout de fond d'ecran du site, rajout d'images d'articles à vendre
