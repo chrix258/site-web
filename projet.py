@@ -74,7 +74,13 @@ def page3():
     # On retourne le template
     return render_template("femme.html", elements = elements)
 
+@app.route("/accessoires")
 
+# Création de la fonction p4 associé à l'URL "/p4"
+def page4():
+    """ Affiche la page accessoires """
+    # On retourne le template
+    return render_template("accessoires.html")
     
 @app.route("/requete", methods = ["POST"])
 def requete2():
