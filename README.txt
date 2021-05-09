@@ -1,9 +1,8 @@
 Site web de Christophe et Jules 
 
-Notre projet vise a élaborer un site web fonctionnel avec une bonne ésthétique basé sur 3 langages : html, css et javascript .
+Notre projet vise a élaborer un site web fonctionnel avec une bonne ésthétique basé sur 4 langages : html, css et python .
 Notre projet est principalement basé sur du html, du css et du javacript ce site est un site de e commerce de sneakers .
-Nous nous sommes fixés comme objectif que ce site puisse etre commercialisable ce qui veut dire qu'il doit etre parfait .
-Pour les icones nous avons utliser le site fonts awesome et pour ce qui est des images elles sont tirées de google images
+Pour les icones nous avons utliser le site fonts awesome et pour ce qui est des images elles sont tirées de google images et le modele de site sur lequel nous nous sommes basé pour le html c'est le site nike
 
 
 
